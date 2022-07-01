@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("push-github-test");
         System.out.println("hello git9 hot-fix7-test");
         System.out.println(" hot-fix-push-gihub-test");
-         System.out.println(" pull-test");
+        System.out.println(" pull-test");
+        System.out.println(" gitee-push-test");
     }
 }
